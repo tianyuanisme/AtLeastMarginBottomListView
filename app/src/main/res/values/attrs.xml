@@ -2,5 +2,6 @@
 <resources>
     <declare-styleable name="AtLeastMarginBottomListView">
         <attr name="atLeastMarginBottom" format="dimension"/>
+        <attr name="atLeastMarginTop" format="dimension"/>
     </declare-styleable>
 </resources>
